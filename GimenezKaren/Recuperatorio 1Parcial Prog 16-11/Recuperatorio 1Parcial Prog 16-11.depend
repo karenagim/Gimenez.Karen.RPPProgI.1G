@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605569943 source:c:\users\compu casa\desktop\gimenezkaren\recuperatorio 1parcial prog 16-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
